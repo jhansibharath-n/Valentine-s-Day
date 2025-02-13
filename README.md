@@ -23,7 +23,11 @@ This is a fun and interactive web project designed to ask someone out in a playf
 4. If they keep selecting "No," the button starts moving randomly, making it hard to decline.
 
 ## How to Run
-Open `index.html` in a web browser.
+1. Clone the repository:
+   ```sh
+   git clone [https://github.com/your-username/your-repo.git](https://github.com/jhansibharath-n/Valentine-s-Day/edit/main/README.md)
+   ```
+2. Open `index.html` in a web browser.
 
 ## Technologies Used
 - HTML
