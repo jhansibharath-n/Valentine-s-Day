@@ -25,7 +25,7 @@ This is a fun and interactive web project designed to ask someone out in a playf
 ## How to Run
 1. Clone the repository:
    ```sh
-   git clone [https://github.com/your-username/your-repo.git](https://github.com/jhansibharath-n/Valentine-s-Day/edit/main/README.md)
+   git clone [https://github.com/your-username/your-repo.git](https://github.com/jhansibharath-n/Valentine-s-Day)
    ```
 2. Open `index.html` in a web browser.
 
